@@ -230,7 +230,78 @@
     }
     ]
     },
-    
+    {
+    "type": "grid",
+    "index": 31,
+    "promotion_name": "MEN-EN",
+    "tag": "Shop by Category",
+    "background_color": "#000000",
+    "items_per_row": 3,
+    "item_height": 110,
+    "header": {
+    "title": "Shop by Category"
+    },
+    "items": [
+    {
+    "promotion_name": "Home-SBC-Fashion Day-Sneakers",
+    "footer": {
+    "title": "Sneakers"
+    },
+    "link": "/men/shoes/sneakers.html?q=Men+Shoes+Sneakers&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Sneakers&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/7-3-22+NEW/Fashion+day/Sneakers.jpg",
+    "tag": "Sneakers"
+    },
+    {
+    "promotion_name": "Home-SBC-Fashion Day-FORMAL SHOES",
+    "footer": {
+    "title": "Formal Shoes"
+    },
+    "link": "/men/shoes/formal.html?q=Men+Shoes+Formal&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Shoes+%2F%2F%2F+Formal&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_english_products",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/7-3-22+NEW/Fashion+day/Formal_shoes.jpg",
+    "tag": "FORMAL SHOES"
+    },
+    {
+    "promotion_name": "Home-SBC-Fashion Day-PREMIUM EDIT",
+    "footer": {
+    "title": "Premium Edit"
+    },
+    "link": "/catalogsearch/result/?q=%2B&dFR%5Bgender%5D%5B0%5D=Men&p=0&dFR%5Bbrand_name%5D%5B0%5D=Guess%2CLacoste%2CCole+Haan%2CCalvin+Klein%2CTommy+Hilfiger%2CSacoor+Brothers&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bdiscount%5D%5B0%5D=gte10&idx=enterprise_magento_english_products",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/7-3-22+NEW/Fashion+day/premium_.jpg",
+    "tag": "PREMIUM EDIT"
+    },
+    {
+    "promotion_name": "Home-SBC-Fashion Day-WALLETS",
+    "footer": {
+    "title": "Wallets"
+    },
+    "link": "/men/accessories/wallets-cardholders.html?q=Men+Accessories+Wallets+%26+Cardholders&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories+%2F%2F%2F+Wallets+%26+Cardholders&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_english_products",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/7-3-22+NEW/Fashion+day/remainnnnggg+fd+creative/MicrosoftTeams-imageWallets.png",
+    "tag": "WALLETS"
+    },
+    {
+    "promotion_name": "Home-SBC-Fashion Day-BACKPACKS    ",
+    "footer": {
+    "title": "Backpacks    "
+    },
+    "link": "/men/bags/backpacks.html?q=Men+Bags+Backpacks&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Bags+%2F%2F%2F+Backpacks&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_english_products",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/7-3-22+NEW/Fashion+day/remainnnnggg+fd+creative/MicrosoftTeams-image+(1)bags.png",
+    "tag": "BACKPACKS    "
+    },
+    {
+    "promotion_name": "Home-SBC-Fashion Day-ACCESSORIES",
+    "footer": {
+    "title": "Accessories"
+    },
+    "link": "/men/accessories.html?q=Men+Accessories&p=0&hFR%5Bcategories.level0%5D%5B0%5D=Men+%2F%2F%2F+Accessories&nR%5Bvisibility_catalog%5D%5B%3D%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/7-3-22+NEW/Fashion+day/remainnnnggg+fd+creative/MicrosoftTeams-image+Acces.png",
+    "tag": "ACCESSORIES"
+    }
+    ],
+    "image_size": {
+    "height": 400,
+    "width": 400
+    }
+    },
     {
     "type": "grid",
     "index": 30,
