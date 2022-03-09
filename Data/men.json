@@ -746,7 +746,78 @@
     "width": 500
     }
     },
-    
+    {
+    "type": "bannerSliderWithLabel",
+    "index": 27,
+    "promotion_name": "Men-EN",
+    "tag": "Fashion Brands-Scroll",
+    "items": [
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-Drip",
+    "tag": "Drip",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/Kuwait+Nd+17-2-22/bannnnnnerrrrr/Drib.jpg",
+    "link": "/catalogsearch/result/?q=DRIP&p=0&dFR%5Bbrand_name%5D%5B0%5D=DRIP&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    },
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-Dune",
+    "tag": "Dune",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/15-2-22+NEW/top+brands/Dune.jpg",
+    "link": "/dune-london.html?q=Dune+London&p=0&dFR%5Bbrand_name%5D%5B0%5D=Dune+London&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    },
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-Crocs",
+    "tag": "Crocs",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/bmt/09-02-2022-men/CROCS.jpg",
+    "link": "/crocs.html?q=Crocs&p=0&dFR%5Bbrand_name%5D%5B0%5D=Crocs&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    },
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-Lee",
+    "tag": "Lee",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/Kuwait+Nd+17-2-22/bannnnnnerrrrr/ATHLETIQ+copy+4.jpg",
+    "link": "/catalogsearch/result/?q=Lee&p=0&dFR%5Bbrand_name%5D%5B0%5D=Lee&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    },
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-Sacoor Brothers",
+    "tag": "Sacoor Brothers",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/Kuwait+Nd+17-2-22/bannnnnnerrrrr/BHPC+copy+4.jpg",
+    "link": "/catalogsearch/result/?q=Sacoor+Brothers&p=0&dFR%5Bbrand_name%5D%5B0%5D=Sacoor+Brothers&dFR%5Bin_stock%5D%5B0%5D=1&dFR%5Bgender%5D%5B0%5D=Men&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    },
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-TRENDYOL",
+    "tag": "TRENDYOL",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/14-2-22+NEW/every+day+outfit+inspo/Trendyol.jpg",
+    "link": "/trendyol.html?q=Trendyol&p=0&dFR%5Bbrand_name%5D%5B0%5D=Trendyol&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    },
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-Wrangler",
+    "tag": "Wrangler",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/Kuwait+Nd+17-2-22/bannnnnnerrrrr/Wrangler.jpg",
+    "link": "/catalogsearch/result/?q=Wrangler&p=0&dFR%5Bbrand_name%5D%5B0%5D=Wrangler&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    },
+    {
+    "promotion_name": "Home-Fashion Brands Scroll-JACK AND JONES",
+    "tag": "JACK AND JONES",
+    "url": "https://mobilecdn.6thstreet.com/AllBanners/14-2-22+NEW/every+day+outfit+inspo/Jack%26Jones.jpg",
+    "link": "/jack-jones.html?q=Jack+%26+Jones&p=0&dFR%5Bbrand_name%5D%5B0%5D=Jack+%26+Jones&dFR%5Bgender%5D%5B0%5D=Men&dFR%5Bin_stock%5D%5B0%5D=1&idx=enterprise_magento_english_products",
+    "width": 355,
+    "height": 475
+    }
+    ]
+    },
     {
     "type": "line_separator",
     "color": "#efefef"
